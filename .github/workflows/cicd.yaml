@@ -19,6 +19,4 @@ jobs:
       - name: Motoko ToDo
         run: |
           dfx start --background
-          pushd ic-todo
           make test
-          popd
