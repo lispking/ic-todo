@@ -1,0 +1,7 @@
+{
+  "canisters": {
+    "ic_todo": {
+      "main": "src/Main.mo"
+    }
+  }
+}
