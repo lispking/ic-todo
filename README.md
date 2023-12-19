@@ -17,6 +17,7 @@ This is a Motoko example that does not currently have a Rust variant.
 Web3 Todo Tool is a to-do list management application based on blockchain technology. It takes full advantage of the features of Web3, providing users with a decentralized, secure, transparent, and tamper-proof platform for managing their to-dos. 
 
 Below is a detailed introduction to the Web3 Todo Tool:
+
 * Decentralization: Web3 Todo Tool does not rely on any centralized servers or storage, instead, it distributes data across multiple nodes on the network through blockchain technology. This helps protect user privacy, reduces the risk of single-point failure, and ensures the durability and availability of data.
 * Data Security: Due to the characteristics of blockchain technology, the data in Web3 Todo Tool is highly secure. Each to-do is packaged as an immutable data block and interconnected with other data blocks. Once a data block is modified, it will cause the hash value of all subsequent data blocks to change, rendering the entire chain ineffective. This mechanism effectively protects user data from being tampered with.
 * User Privacy: Web3 Todo Tool uses encryption algorithms to ensure that users remain anonymous when creating and viewing to-dos. Users can freely manage their to-dos without worrying about privacy leaks.
